@@ -13,3 +13,21 @@
   5. share - share finding and recommendations with team leaders
   6. act 
 
+# what is the data ecosystem
+
+- the various elements that interact with one another in order to produce, manage, store, organize, analyze and share data 
+
+# cloud 
+- place to keep data online rather than on a computer hard drive; data accessed over the internet; the virutal location
+
+# data scientist vs data analyst 
+
+data science - creating new ways of modeling and understanding the unknown by using raw data
+
+data scientists create new questions using data, while analysts find answers to existing questions by creating insights from data sources 
+
+data  analysis - the collection, transformation, and organization of data in order to draw conclusions, make predictions, and drive informed decision-making
+
+data analytics - the science of data; very broad subject
+all of the aspects of data analysis fit under the data analytics umbrella 
+
