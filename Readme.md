@@ -9,9 +9,9 @@
   1. ask - asked questions to define both the issure to be solved and what would equal a successful resutl
   2. prepare - build a timeline and collect data with employee surveys that were designed to be inclusive
   3. process - clean the data to make sure it is complete, correct, releveant, and free of errors or outliers
-  4. analyze - 
-  5. share - share finding and recommendations with team leaders
-  6. act 
+  4. analyze data to find patterns, relationships, and trends 
+  5. share - share finding and recommendations with team leaders; share data with your audience
+  6. act on hte data and use the analysis results 
 
 # what is the data ecosystem
 
@@ -35,5 +35,18 @@ all of the aspects of data analysis fit under the data analytics umbrella
 
 using facts to guide business strategy
 
+1st step - figuring out the business need; usually a problem that needs to be solved
+
+
+# data analysis life cycle
+
+the process of going from data to decision 
+
+1. ask: business challenge/objective/question
+2. prepare: data generation, collection, storage, and data management
+3. process: data cleaning/data integrity
+4. analyze: data exploration, visualixation, and analysis
+5. share: communicating and interpreting results
+6. act:  putting your insights to work to solve the problem.
 
 
