@@ -31,3 +31,9 @@ data  analysis - the collection, transformation, and organization of data in ord
 data analytics - the science of data; very broad subject
 all of the aspects of data analysis fit under the data analytics umbrella 
 
+# data-driven decision making
+
+using facts to guide business strategy
+
+
+
